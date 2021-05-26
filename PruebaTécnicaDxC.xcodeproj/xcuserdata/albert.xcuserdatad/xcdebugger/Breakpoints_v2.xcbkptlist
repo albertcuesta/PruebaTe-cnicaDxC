@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA37C2D5-E0F3-4A86-B3CA-4F7F20319221"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15F514F1-E4AF-4118-8311-E406636D1AAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaTe&#x301;cnicaDxC/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "numberOfRowsInSection(section:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91696506-30B1-4BE2-BBC4-FB315F33788D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaTe&#x301;cnicaDxC/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "cellForRowAt(indexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3012CCCE-C389-4C65-95AE-9155F18A0FBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaTe&#x301;cnicaDxC/Controller/MovieViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3012CCCE-C389-4C65-95AE-9155F18A0FBF - cfbecbf5db5c55dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "3012CCCE-C389-4C65-95AE-9155F18A0FBF - 3f1b111fadfb05d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in PruebaTe&#x301;cnicaDxC.MovieViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D693B5E5-7CA3-478A-A5FB-E0D1E9A9E8E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaTe&#x301;cnicaDxC/Model/MovieRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getPopularMoviesData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D693B5E5-7CA3-478A-A5FB-E0D1E9A9E8E7 - 6915b09174b8c0dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieRequest.getPopularMoviesData(completion: (Swift.Result&lt;PruebaTe&#x301;cnicaDxC.MoviesData, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Model/MovieRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "905">
+               </Location>
+               <Location
+                  uuid = "D693B5E5-7CA3-478A-A5FB-E0D1E9A9E8E7 - 896c3c66a87713b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PruebaTe&#x301;cnicaDxC.MovieRequest.getPopularMoviesData(completion: (Swift.Result&lt;PruebaTe&#x301;cnicaDxC.MoviesData, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Model/MovieRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "346">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaTe&#x301;cnicaDxC/Controller/MovieViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "MovieViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A - f0ac9e22cad4ce4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.viewModel.getter : PruebaTe&#x301;cnicaDxC.MovieViewModel"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A - 7ffdad2e6e3aee36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.viewModel.setter : PruebaTe&#x301;cnicaDxC.MovieViewModel"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A - 9ce4a8b4084f5074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.viewModel.modify : PruebaTe&#x301;cnicaDxC.MovieViewModel"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A - 14efd54ba78fc4c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.viewModel.modify : PruebaTe&#x301;cnicaDxC.MovieViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A - 6eb222b808c745cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PruebaTe&#x301;cnicaDxC.MovieViewController"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "CD38A660-E517-4D31-8911-0FEBC91D0E2A - 67ddba50308b58d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaTe&#x301;cnicaDxC.MovieViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PruebaTe&#x301;cnicaDxC.MovieViewController&gt;"
+                  moduleName = "PruebaTe&#x301;cnicaDxC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/albert/Desktop/PruebaTe%CC%81cnicaDxC/PruebaTe%CC%81cnicaDxC/Controller/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABF9704-7EE3-4F55-99B8-B9486E024D93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaTe&#x301;cnicaDxC/Controller/MovieViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
